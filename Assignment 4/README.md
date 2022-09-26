@@ -1,8 +1,8 @@
 # Project 3
+#### DATA602
 
-Posted: November 2, 2017
-
-Due: November 17, 2017
+Posted:
+Due:
 
 This project focuses on utilizing the NLP skills we learned to do two basic text analysis tasks. Although the text below references NLTK, you are free to use any other NLP package instead (e.g., spaCy).
 
@@ -24,4 +24,4 @@ Next, write a few regular expressions to extract information about which `positi
 
 ## Submission
 
-Submit a zip file containing your Jupyter notebook as well as the text of the 10 articles that you downloaded for the second part.
+Submit a zip file containing your Python notebook as well as the text of the 10 articles that you downloaded for the second part.
