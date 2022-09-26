@@ -5,7 +5,7 @@
 **Posted:**  
 **Due:** 
 
-You've been hired by a new space weather startup looking to disrupt the space weather reporting business. Your first project is to provide better data about the top 50 solar flares recorded so far than that shown by your competitor [SpaceWeatherLive.com](https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares). To do this, they've pointed you to [this messy HTML page](http://cdaw.gsfc.nasa.gov/CME_list/radio/waves_type2.html) from NASA ([available here also](http://www.hcbravo.org/IntroDataSci/misc/waves_type2.html)) where you can get the extra data your startup is going to post in your new spiffy site.
+You've been hired by a new space weather startup looking to disrupt the space weather reporting business. Your first project is to provide better data about the top 50 solar flares recorded so far than that shown by your competitor [SpaceWeatherLive.com](https://web.archive.org/web/20201112015618/https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares.html). To do this, they've pointed you to [this messy HTML page](http://cdaw.gsfc.nasa.gov/CME_list/radio/waves_type2.html) from NASA ([available here also](http://www.hcbravo.org/IntroDataSci/misc/waves_type2.html)) where you can get the extra data your startup is going to post in your new spiffy site.
 
 Of course, you don't have access to the raw data for either of these two tables, so as an enterprising data scientist you will scrape this information directly from each HTML page using all the great tools available to you in Python. By the way, you should read up a bit on [Solar Flares](https://en.wikipedia.org/wiki/Solar_flare), [coronal mass ejections](https://www.spaceweatherlive.com/en/help/what-is-a-coronal-mass-ejection-cme), [the solar flare alphabet soup](http://spaceweather.com/glossary/flareclasses.html), [the scary storms of Halloween 2003](http://www.nasa.gov/topics/solarsystem/features/halloween_storms.html), and [sickening solar flares](https://science.nasa.gov/science-news/science-at-nasa/2005/27jan_solarflares).
 
@@ -13,7 +13,7 @@ Of course, you don't have access to the raw data for either of these two tables,
 
 ### Step 1: Scrape your competitor's data 
 
-Use Python to scrape data for the top 50 solar flares shown in [SpaceWeatherLive.com](https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares). Steps to do this are:
+Use Python to scrape data for the top 50 solar flares shown in [SpaceWeatherLive.com](https://web.archive.org/web/20201112015618/https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares.html). Steps to do this are:
 
 1.  `pip install` or `conda install` the following Python packages: `beautifulsoup4, requests, pandas, numpy`; these are already in the environment if you are using Docker.
 2.  Use `requests` to get (as in, HTTP GET) the URL
