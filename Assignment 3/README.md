@@ -177,4 +177,4 @@ Prepare and knit an Jupyter notebook that includes for each Problem: (a) code to
 
 All axes in plots should be labeled in an informative manner. Your answers to any question that refers to a plot should include both (a) a text description of your plot, and (b) a sentence or two of interpretation as it relates to the question asked.
 
-Submit to ELMS at Project 2 Assignment Submission.
+Submit to ELMS at Assignment 3 Submission.
