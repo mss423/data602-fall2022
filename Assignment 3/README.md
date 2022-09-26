@@ -1,8 +1,8 @@
-# Project 2
+# Assignment 3
+#### DATA602
 
-Posted: October 17, 2017
-
-Due: October 31, 2017
+Posted:
+Due:
 
 In this project you will apply your data wrangling and exploratory data analysis skills to baseball data. In particular, we want to know how well did Moneyball work for the Oakland A's. Was it worthy of a movie?
 
