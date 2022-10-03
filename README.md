@@ -6,6 +6,21 @@ Over the course of the semester, you will work with a variety of software packag
 For those unfamiliar with GitHub, below is some basic information about the platform.
 
 ---
+### GitHub
+
+Git is one of the most widely used version control management systems today, and invaluable when working in a team. GitHub is a web-based hosting service built around git -- it supports hosting git repositories, user management, etc. There are other similar services, e.g., bitbucket.
+
+We will use GitHub to distribute the assignments, and other class materials. Our use of git/github for the class will be minimal; however, we encourage you to use it for collaboration for your class project, or for other classes.
+
+Just Cloning the Class Repository
+
+You don't need a GitHub account for just cloning the class repository. From the commandline, just do:
+
+git clone https://github.com/mss423/data602-fall2022.git
+
+You can do git pull (from within the data602-fall2022 directory) to fetch the newly added material.
+
+NOTE: If you are having trouble installing git, you can just download the files instead (as a zipfile), although updating may become tedious.
 
 ### Google CoLab and Notebook Basics
 
