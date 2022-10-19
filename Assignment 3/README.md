@@ -2,7 +2,7 @@
 #### DATA602
 
 Posted: October 18th, 2022
-Due: November 2nd, 2022
+Due: November 3rd, 2022
 
 In this project you will apply your data wrangling and exploratory data analysis skills to baseball data. In particular, we want to know how well did Moneyball work for the Oakland A's. Was it worthy of a movie?
 
