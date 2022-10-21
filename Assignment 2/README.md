@@ -206,8 +206,7 @@ Prepare one plot that shows the top 50 solar flares in context with all data ava
 ## Part 3: Geomagnetic Storms (Optional)
 As an optional exercise and to practice, also do the same exercise to replicate the Top 50 Geomagnetic Storms Webpage (https://www.spaceweatherlive.com/en/auroral-activity/top-50-geomagnetic-storms), along with a function to create a plot similar to: https://www.spaceweatherlive.com/en/archive/2003/10/29/kp.
 
-The raw data for this is available at Kp Index Archive at Helmhotz Centre: http://www.gfz-potsdam.de/en/section/earths-magnetic-field/data-products-services/kp-index/archive/, specifically at: ftp://ftp.gfz-potsdam.de/pub/home/obs/kp-ap/tab/.
-I have copied down the entire directory (using `wget --wait=20 --random-wait -r ftp://ftp.gfz-potsdam.de/pub/home/obs/kp-ap/tab/`) so we don't all hit the server repeatadly (a real risk of getting the entire UMD domain blacklisted if one is not careful). You can find a zipped file: `gfz-data.zip`.
+The raw data for this is available at Kp Index Archive at Helmhotz Centre: https://www.gfz-potsdam.de/en/section/geomagnetism/data-products-services/geomagnetic-kp-index. I have copied down the entire directory (using `wget --wait=20 --random-wait -r ftp://ftp.gfz-potsdam.de/pub/home/obs/kp-ap/tab/`) so we don't all hit the server repeatadly (a real risk of getting the entire UMD domain blacklisted if one is not careful). You can find a zipped file: `gfz-data.zip`.
 
 One of the things you will need to figure out is the format of the files in here (the `.tab` files), and how to parse them. There is however one-to-one mapping between rows in those files and the rows in the top-50 list at the link above (i.e., you don't have to do any aggregations or other types of processing to come up with the numbers shown in that top-50 table).
 
