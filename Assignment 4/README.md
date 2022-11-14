@@ -2,6 +2,7 @@
 #### DATA602
 
 Posted: November 14th 2022
+
 Due: December 14th, 2022
 
 This project focuses on *natural language processing (NLP)* by asking you to work on a basic text analysis task. Although the text below references NLTK, you are free to use any other NLP package instead (e.g., spaCy).
@@ -18,4 +19,4 @@ Tips / Hints: This assignment is intentionally open-ended. You are tasked with b
 
 ## Submission
 
-Submit a zip file containing your Python notebook as well as a brief explanation of the features you extract / how you get predictive information from the reviews.
+Submit your Python notebook as well as a brief explanation of the features you extract / how you get predictive information from the reviews.
