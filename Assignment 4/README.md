@@ -3,7 +3,7 @@
 
 Posted: November 14th 2022
 
-Due: December 14th, 2022
+Due: December 12th, 2022 (last day of classes)
 
 This project focuses on *natural language processing (NLP)* by asking you to work on a basic text analysis task. Although the text below references NLTK, you are free to use any other NLP package instead (e.g., spaCy).
 
